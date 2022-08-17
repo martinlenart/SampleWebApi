@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CardGame
+namespace SampleWebApi.Models
 {
 	/// <summary>
 	/// Enum type representing a playing card color, also called suit
